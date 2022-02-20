@@ -22,5 +22,5 @@ Or simply watch screenshots -
 
 
 # To download apk
-[here] (https://github.com/stereopolina/flutter-assignments/blob/master/assignment1/demos/app-release.apk)
+[here](https://github.com/stereopolina/flutter-assignments/blob/master/assignment1/demos/app-release.apk)
 
