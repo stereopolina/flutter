@@ -14,10 +14,10 @@ Clone the repository, run 'flutter pub get' command in the project console and r
 demo from the Android Pixel - [here](https://github.com/stereopolina/flutter-assignments/blob/master/assignment1/demos/appMobile.mov)  
 demo from Web - [here](https://github.com/stereopolina/flutter-assignments/blob/master/assignment1/demos/appWeb.mp4)  
 
-Or simply watch screenshots - 
-<img width="319" alt="Снимок экрана 2022-02-20 в 13 51 12" src="https://user-images.githubusercontent.com/64332054/154843498-727112d9-3b59-4713-a102-cd98a8e8a109.png">  
-<img width="324" alt="Снимок экрана 2022-02-20 в 13 50 18" src="https://user-images.githubusercontent.com/64332054/154843504-2a19fa34-432b-4812-910e-20e98eec18e9.png">  
-<img width="318" alt="Снимок экрана 2022-02-20 в 13 50 36" src="https://user-images.githubusercontent.com/64332054/154843508-59953fdb-d3c2-4cfd-84f0-75da1d926eb6.png">  
+Or simply watch screenshots -  
+<img width="319" alt="Снимок экрана 2022-02-20 в 13 51 12" src="https://user-images.githubusercontent.com/64332054/154843498-727112d9-3b59-4713-a102-cd98a8e8a109.png">
+<img width="324" alt="Снимок экрана 2022-02-20 в 13 50 18" src="https://user-images.githubusercontent.com/64332054/154843504-2a19fa34-432b-4812-910e-20e98eec18e9.png">
+<img width="318" alt="Снимок экрана 2022-02-20 в 13 50 36" src="https://user-images.githubusercontent.com/64332054/154843508-59953fdb-d3c2-4cfd-84f0-75da1d926eb6.png">
 <img width="318" alt="Снимок экрана 2022-02-20 в 13 50 44" src="https://user-images.githubusercontent.com/64332054/154843511-f6f8f712-bc93-455d-b0ab-2a1adf04db0b.png">  
 
 
